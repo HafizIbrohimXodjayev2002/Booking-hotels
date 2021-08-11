@@ -1,4 +1,4 @@
-# imtihon2
+# Exam in flutter
 
 Xalqaro Mehmon xonalar uchun masofaviy hamda zamonavaiy band qilish dasturi.
 
@@ -53,7 +53,7 @@ Xalqaro Mehmon xonalar uchun masofaviy hamda zamonavaiy band qilish dasturi.
 
 <a href="https://ibb.co/NmBVvdK"><img src="https://i.ibb.co/txrmGTD/photo-2021-08-11-20-27-29.jpg" alt="photo-2021-08-11-20-27-29" border="0"></a>
 
-####**Dasturda ishlatilgan package lar**: 
+## **Dasturda ishlatilgan package lar**: 
   cupertino_icons: ^1.0.2
   firebase_core: ^1.4.0
   firebase_auth: ^3.0.1
@@ -63,4 +63,4 @@ Xalqaro Mehmon xonalar uchun masofaviy hamda zamonavaiy band qilish dasturi.
   synchronized: 3.0.0
   sqflite: 2.0.0
 
-##**Dasturni yuklab olish uchun:** https://github.com/HafizIbrohimXodjayev2002/Imtihon/blob/main/app-release.apk
+## **Dasturni yuklab olish uchun:** https://github.com/HafizIbrohimXodjayev2002/Imtihon/blob/main/app-release.apk
