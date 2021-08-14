@@ -1,5 +1,7 @@
 # Exam in flutter
 
+## DarkTheme and LigthTheme is also enabled but i could not update
+
 #### Xalqaro Mehmon xonalar uchun masofaviy hamda zamonavaiy band qilish dasturi :hotel: :city_sunset:.
 
 Bu dastur bir kunda qilinganligi sababli ba'zi bir kamchiliklar bo'lishi mumkin  :warning:
